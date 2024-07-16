@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .aligen-content {
+    @apply max-w-7xl m-auto px-5;
+  }
+}
